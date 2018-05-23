@@ -1,0 +1,94 @@
+
+/**
+ * HW-Wireframe
+ **/
+
+ * {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    background: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    color: #777;
+    width: 960px;
+  }
+    
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ebebeb;
+    width: 960px;
+  }
+
+  nav {
+      background: #ebebeb;
+      width: 960px;
+      margin-bottom: 10px;
+      padding: 20px;
+  }
+  
+  #section {
+    display: inline-block;
+    float: left;
+    margin-bottom: 20px;
+    background: #ebebeb;
+    width: 480px;
+    
+        
+  }
+
+  .h2 {
+      width: 440px;
+      margin: 10px 100px 10px 10px;
+  }
+  
+
+  #article {
+      float: left;
+      color: #ebebeb;
+      background: #777;
+      width: 460px;
+      margin: 10px 20px 10px 10px;
+      
+    }
+  
+  #division {
+    padding: 20px;
+    margin-top: 20px;
+    background: #6ea3da;
+    width: 495px;
+  }
+
+  .p {
+      width: 440px;
+      margin: 10px 10px 10px 10px;
+  }
+  
+  #aside {
+    float: left;
+    width: 465px;
+    height: 285px;
+    background: #ebebeb;
+    border: 1px solid #eee;
+  }
+
+  .left {
+      float: left;
+  }
+
+  .right {
+      float: right;
+  }
+  
+  footer {
+    width: 960px;
+    padding: 20px;
+    clear: both;
+    background: #ebebeb;
+  }
+  
